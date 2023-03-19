@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
 	display: flex;
 	justify-content: space-between;
-	flex-flow: row wrap;
+	flex-flow: wrap;
 }
-.container div{
+.holder div{
 	width: 80px;
 	height: 80px;
 	font-size: 35px;
